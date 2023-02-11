@@ -15,13 +15,13 @@ The API's used for this app are the HipoUni api and OpenTrip
 
 ## Installation
 
-Before viewing the page it is required that you visit href: https://cors-anywhere.herokuapp.com/corsdemo and click on the button to llow temporary access, this will allow the hipouni api to work.
+Before viewing the page it is required that you visit href: https://cors-anywhere.herokuapp.com/corsdemo and click on the button to allow temporary access, this will allow the hipouni api to work.
 
-The repository can be found at href: https://github.com/rpjsazon/UniversityExplorer
+The repository can be found at href: https://github.com/RyzaT/University-Explorer-Project
 
-This page can be found at href: https://rpjsazon.github.io/UniversityExplorer/
+This page can be found at href: https://ryzat.github.io/University-Explorer-Project/
 
-![Alt text](https://github.com/rpjsazon/UniversityExplorer/blob/Ryan-Test/assets/images/Screenshot.png?raw=true)
+![Alt text](https://github.com/RyzaT/University-Explorer-Project/blob/main/assets/images/Screenshot.png?raw=true)
 
 
 ##  Usage
